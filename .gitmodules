@@ -7,3 +7,6 @@
 [submodule "CurrencyConverterMicroservice"]
 	path = CurrencyConverterMicroservice
 	url = https://github.com/hagar110/CurrencyConverterMicroservice
+[submodule "Eureka-naming-server"]
+	path = Eureka-naming-server
+	url = https://github.com/hagar110/Eureka-naming-server
