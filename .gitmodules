@@ -1,0 +1,3 @@
+[submodule "LimitsMicroservice"]
+	path = LimitsMicroservice
+	url = https://github.com/hagar110/LimitsMicroservice
