@@ -4,3 +4,6 @@
 [submodule "currencyExchangeService"]
 	path = currencyExchangeService
 	url = https://github.com/hagar110/currencyExchangeService
+[submodule "CurrencyConverterMicroservice"]
+	path = CurrencyConverterMicroservice
+	url = https://github.com/hagar110/CurrencyConverterMicroservice
