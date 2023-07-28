@@ -1,3 +1,6 @@
 [submodule "LimitsMicroservice"]
 	path = LimitsMicroservice
 	url = https://github.com/hagar110/LimitsMicroservice
+[submodule "currencyExchangeService"]
+	path = currencyExchangeService
+	url = https://github.com/hagar110/currencyExchangeService
