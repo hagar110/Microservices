@@ -10,3 +10,6 @@
 [submodule "Eureka-naming-server"]
 	path = Eureka-naming-server
 	url = https://github.com/hagar110/Eureka-naming-server
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = https://github.com/hagar110/ApiGateway
